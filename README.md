@@ -1,5 +1,5 @@
 # Finalexp
-a=input("Enter first value:")
-b=input("Enter second value:")
-c=a+b
-print(c)
+x=input("Enter first value:")
+y=input("Enter second value:")
+z=x+y
+print(z)
